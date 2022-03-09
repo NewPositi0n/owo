@@ -1,0 +1,11 @@
+
+Napishite zdes svoi dannie:
+IMYA/FAMILIYA/VASH VOZRAST/VASH LYUBIMII CVET;
+
+/----------------------------------------------/
+
+Ilya/Novoselov/19/Black;
+
+?/?/?/?;
+
+?/?/?/?;
