@@ -6,6 +6,6 @@ IMYA/FAMILIYA/VASH VOZRAST/VASH LYUBIMII CVET;
 
 Ilya/Novoselov/19/Black;
 
-?/?/?/?;
+Natalia/Perminova/18/Yellow;
 
 ?/?/?/?;
